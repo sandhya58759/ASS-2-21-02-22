@@ -1,4 +1,4 @@
-# ASS-2-21-02-22
+# ASS-1-21-02-22
 PATTERN PROGRAM FOR ALPHABET
 n=int(input())
 for i in range (1,rows+1):
